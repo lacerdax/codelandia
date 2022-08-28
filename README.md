@@ -3,7 +3,7 @@
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
 ### Acesse
-<a href="https://portfolio-lucaslacerda.vercel.app" target="_blank">Clique aqui para visualizar o site!</a>
+<a href="https://lacerdax.github.io/codelandia" target="_blank">Clique aqui para visualizar o site!</a>
 
 ![screencapture-lacerdax-github-io-codelandia-2022-08-28-12_35_55](https://user-images.githubusercontent.com/98031390/187082252-8a7c04de-1eee-4c22-857b-fdded81bf6f7.png)
 

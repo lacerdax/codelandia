@@ -38,6 +38,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+    <td align="initial">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/10067116" width="100px;" alt="Foto do Rodrigo Schio no GitHub"/><br>
+        <sub>
+          <b>Rodrigo Schio</b>
+        </sub>
+      </a>
+    </td>
 </table>
 
 
